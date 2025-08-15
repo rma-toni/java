@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class Basics {
 
     //Variable names are case-sensitive on Java and most languages
