@@ -1,0 +1,8 @@
+1 - The developer writes the Java Code in .java files using an IDE or a text editor
+2 - The code is compiled by the Java compiler (javac) into bytecodes stored in .class files.
+    Syntax and type checking performed during compilation.
+3 - When the program runs, de Java Virtual Machine (JVM) load the class files into memory (loading binaries, linking, etc).
+    The JVM verifies the bytecode's security.
+    Perform a Just-in-Time (JIT) compilation to translate bytecode into native machine code and execute the program
+    while managing system resources.
+4 - Throughout execution, the JVM handles garbage collection.
