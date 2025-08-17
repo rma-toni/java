@@ -9,7 +9,8 @@ public class NonPrimitiveTypes {
     public static void main(String[] args) {
 
         //1 - STRINGS
-        //String is a Non-Primitive type, is a non-mutable array of characters
+        //String is a Non-Primitive type (an object),
+        //You could say that it is a non-mutable array of characters
         String address = "Av. Mayo 512";
 
         //2 - ARRAYS
